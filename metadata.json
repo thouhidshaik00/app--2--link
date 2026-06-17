@@ -1,0 +1,6 @@
+{
+  "name": "Link-in-Bio SaaS",
+  "description": "A sleek, minimal, offline-first Link-in-Bio SaaS platform featuring active administration tools and dynamic live mobile preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
